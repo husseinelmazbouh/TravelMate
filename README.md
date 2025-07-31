@@ -31,6 +31,6 @@ TravelMate is a study project designed as an all-in-one travel assistant applica
 
 ## ✍️ Author
 
-**Hussein El Mazbouh** **Malk Serhan**  
+**Hussein El Mazbouh** , **Malk Serhan**  
 Computer Science Graduate – Lebanese University  
 📧 husseinelmazbouh1@gmail.com
